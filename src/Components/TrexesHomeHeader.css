@@ -1,0 +1,99 @@
+.trexeshomeheader {
+    background-color: #084C2A;
+    color: white; 
+}
+
+.trexeshomeheadertitleheader {
+    margin-left: 50px;
+    font-size: 35px;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    
+}
+
+.trexeshomeheadertitleheader:hover {
+    color: #3BDA8A;
+    transition-duration: 0.3s;
+
+
+}
+
+.homebuttona {
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-size: 25px;
+    color: white; 
+    text-decoration: none; 
+    margin-left: 150px;
+
+
+}
+
+.homebuttona:hover {
+    color: #3BDA8A;  
+    transition-duration: 0.3s;
+}
+
+.achievementsbuttona {
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-size: 25px;
+    color: white; 
+    text-decoration: none; 
+    margin-left: 150px;
+
+}
+
+.achievementsbuttona:hover {
+    color: #3BDA8A;  
+    transition-duration: 0.3s;
+
+}
+
+.outreachbuttona {
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-size: 25px;
+    color: white; 
+    text-decoration: none; 
+    margin-left: 150px;
+
+}
+
+.outreachbuttona:hover {
+    color: #3BDA8A;  
+    transition-duration: 0.3s;
+
+}
+
+
+
+
+
+.instagramicona {
+    width: 35px; 
+    height: 35px; 
+    cursor: pointer; 
+    margin-left: 30px;
+
+}
+
+.twittericona {
+    width: 35px; 
+    height: 35px; 
+    cursor: pointer; 
+    margin-left: 30px;
+
+}
+
+.trexeshomeheader__titleheader, .trexeshomeheader__homebuttona, .trexeshomeheader__achievementsbuttona, .trexeshomeheader__outreachbuttona, .trexeshomeheader__contactusbuttona, .trexeshomeheader__instagramicona, .trexeshomeheader__twittericona{
+    display: inline-block;
+}
+.ftconetwoninetwothreehearda {
+    cursor: pointer; 
+    font-size: 20px;
+    margin-left: 120px;
+}
+
+.ftconetwoninetwothreehearda:hover {
+    color: #3BDA8A;  
+    transition-duration: 0.3s;
+
+}
+

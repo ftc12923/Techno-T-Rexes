@@ -1,0 +1,24 @@
+.vivekbio {
+    background-color: #084C2A;
+    color: white; 
+    margin-top: 10px;
+}
+
+.vivekname {
+    color: white; 
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    margin-left: 5px; 
+}
+
+.vivekparagraph {
+    color: white; 
+    margin-left: 5px; 
+
+}
+
+.vivekbio:hover {
+    background-color: #02203c; 
+    color: white; 
+    transition-duration: 0.3s;
+
+}

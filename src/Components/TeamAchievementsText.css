@@ -1,0 +1,15 @@
+.teamachievementstextheader {
+    color: #02203c; 
+    font-family: 'Quicksand', sans-serif;
+}
+
+.teamachievementstextheader:hover {
+    color: #084C2A; 
+    transition-duration: 0.3s;  
+}
+
+.teamachievementstextmoreheader {
+    color: #02203c; 
+    font-family: 'Quicksand', sans-serif;
+
+}

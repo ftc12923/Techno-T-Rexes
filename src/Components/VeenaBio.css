@@ -1,0 +1,22 @@
+.veenabio {
+    background-color: #084C2A;
+    color: white; 
+    margin-top: 10px;
+}
+
+.veenaname {
+    color: white; 
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    margin-left: 5px;
+}
+
+.veenaparagraph {
+    color: white; 
+    margin-left: 5px;
+}
+
+.veenabio:hover {
+    background-color: #02203c; 
+    color: white; 
+    transition-duration: 0.3s;
+}

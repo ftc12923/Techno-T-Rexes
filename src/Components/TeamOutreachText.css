@@ -1,0 +1,14 @@
+.teamoutreachtitle {
+    color: #02203c; 
+    font-family: 'Quicksand', sans-serif;
+}
+
+.teamoutreachtitle:hover {
+    color: #084C2A; 
+    transition-duration: 0.3s; 
+}
+
+.teamoutreachtextdescheader {
+    color: #02203c; 
+    font-family: 'Quicksand', sans-serif;
+}

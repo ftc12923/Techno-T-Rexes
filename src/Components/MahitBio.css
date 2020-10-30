@@ -1,0 +1,22 @@
+.mahitbio {
+    background-color: #084C2A;
+    color: white; 
+    margin-top: 10px;
+}
+
+.mahitname {
+    color: white; 
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    margin-left: 5px; 
+}
+
+.mahitparagraph {
+    color: white; 
+    margin-left: 5px;
+}
+
+.mahitbio:hover {
+    background-color: #02203c; 
+    color: white; 
+    transition-duration: 0.3s;
+}

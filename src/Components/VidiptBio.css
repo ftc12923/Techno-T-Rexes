@@ -1,0 +1,22 @@
+.vidiptbio {
+    background-color: #084C2A;
+    color: white; 
+    margin-top: 10px;
+}
+
+.vidiptname {
+    color: white; 
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    margin-left: 5px; 
+}
+
+.vidiptparagrah {
+    color: white; 
+    margin-left: 5px;
+}
+
+.vidiptbio:hover {
+    background-color: #02203c; 
+    color: white; 
+    transition-duration: 0.3s;
+}

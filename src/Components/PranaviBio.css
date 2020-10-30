@@ -1,0 +1,22 @@
+.pranavibio {
+    background-color: #084C2A;
+    color: white; 
+    margin-top: 10px;
+}
+
+.pranaviname {
+    color: white; 
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    margin-left: 5px;
+}
+
+.pranavipargraph {
+    color: white; 
+    margin-left: 5px; 
+}
+
+.pranavibio:hover {
+    background-color: #02203c; 
+    color: white; 
+    transition-duration: 0.3s;
+}

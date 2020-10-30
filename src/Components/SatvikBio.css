@@ -1,0 +1,22 @@
+.satvikbio {
+    background-color: #084C2A;
+    color: white; 
+    margin-top: 10px;
+}
+
+.satvikname {
+    color: white; 
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    margin-left: 5px;
+}
+
+.satvikparagraph {
+    color: white; 
+    margin-left: 5px;
+}
+
+.satvikbio:hover {
+    background-color: #02203c; 
+    color: white; 
+    transition-duration: 0.3s;
+}

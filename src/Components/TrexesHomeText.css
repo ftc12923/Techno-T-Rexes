@@ -1,0 +1,14 @@
+.trexeshometexttitleheader { 
+    color: #02203c; 
+    font-family: 'Quicksand', sans-serif;
+}
+
+.trexeshometexttitleheader:hover {
+    color: #084C2A; 
+    transition-duration: 0.3s;  
+}
+
+.teamdescription {
+    margin-right: 5px; 
+    margin-top: 10px;
+}
