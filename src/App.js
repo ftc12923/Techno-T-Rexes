@@ -4,7 +4,7 @@ import {
   Switch,
   Route, 
   Link 
-} from "react-router-dom";  
+} from "react-router-dom";   
 import './App.css';
 import TrexesHomeHeader from './Components/TrexesHomeHeader';
 import TrexesHomeText from './Components/TrexesHomeText';
